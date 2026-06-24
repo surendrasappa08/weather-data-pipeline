@@ -18,6 +18,7 @@ A simple Python ETL (Extract, Transform, Load) pipeline that fetches live weathe
 2. Install dependencies:
 3. Create a `.env` file in the project root with your own OpenWeatherMap API key:
 4. Run the script:
+python3 weather.py
 ## What I learned
 - How to securely manage API keys using environment variables instead of hardcoding them
 - How to parse nested JSON responses from a REST API
